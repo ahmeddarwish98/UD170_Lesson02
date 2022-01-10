@@ -28,3 +28,13 @@ gpd_per_capita:
 employment_above_15:
     Percentage of total population, age above 15, that has been employed during
     the given year.
+    
+Gapminder Data
+In this Analysis we are going to use data from a different dataset 'Gapminder Data' -
+The data was obtained from the site gapminder.org. The variables included are:
+
+Aged 15+ Employment Rate (%)
+Life Expectancy (years)
+GDP/capita (US$, inflation adjusted)
+Primary school completion (% of boys)
+Primary school completion (% of girls)
