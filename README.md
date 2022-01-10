@@ -37,4 +37,4 @@ The data was obtained from the site gapminder.org. The variables included are:
      + Life Expectancy (years)
      + GDP/capita (US$, inflation adjusted)
      + Primary school completion (% of boys)
-Primary school completion (% of girls)
+     + Primary school completion (% of girls)
